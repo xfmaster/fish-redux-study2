@@ -1,0 +1,39 @@
+const String BASE_URL = 'https://api.apiopen.top/'; //域名
+const String MUSIC_BROADCAST = 'musicBroadcasting';
+const String MUSIC_BROADCAST_DETAIL = 'musicBroadcastingDetails';
+//音乐搜索接口：
+//https://api.apiopen.top/searchMusic?name=不要说话
+//音乐电台接口：
+//https://api.apiopen.top/musicBroadcasting
+//
+//音乐电台详情接口：
+//https://api.apiopen.top/musicBroadcastingDetails?channelname=public_tuijian_spring
+//
+//音乐详情接口：
+//https://api.apiopen.top/musicDetails?id=604392760
+//
+//音乐排行榜接口：
+//https://api.apiopen.top/musicRankings
+//
+//音乐排行榜详情接口：
+//https://api.apiopen.top/musicRankingsDetails?type=1
+//
+//每日视频推荐接口：
+//https://api.apiopen.top/todayVideo
+//
+//视频大纲获取接口：
+//https://api.apiopen.top/videoHomeTab
+//
+//视频分类推荐接口：
+//https://api.apiopen.top/videoCategory
+//
+//视频分类推荐接口：
+//https://api.apiopen.top/videoCategoryDetails?id=14
+//
+//根据ID推荐接口：
+//https://api.apiopen.top/videoRecommend?id=127398
+//
+//作者：有梦想的程序丶猿
+//链接：https://www.jianshu.com/p/e6f072839282
+//来源：简书
+//简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
