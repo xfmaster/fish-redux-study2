@@ -5,7 +5,7 @@ import 'package:fish_redux_stutdy_2/bean/ChannelTabBean.dart';
 import 'package:fish_redux_stutdy_2/http/API.dart';
 import 'package:fish_redux_stutdy_2/http/http.dart';
 import 'package:fish_redux_stutdy_2/view/tab_controller.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'hide Action;
 import 'action.dart';
 import 'state.dart';
 

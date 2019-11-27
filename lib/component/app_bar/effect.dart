@@ -1,7 +1,7 @@
 import 'package:fish_redux/fish_redux.dart';
 import 'package:fish_redux_stutdy_2/component/app_bar/action.dart';
 import 'package:fish_redux_stutdy_2/component/app_bar/state.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter/widgets.dart'hide Action;
 
 Effect<AppBarState> buildEffect() {
   return combineEffects(<Object, Effect<AppBarState>>{

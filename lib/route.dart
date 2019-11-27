@@ -1,6 +1,6 @@
 import 'package:fish_redux/fish_redux.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart'hide Action;
+import 'package:flutter/widgets.dart' hide Action;
 
 import 'constant/theme.dart';
 import 'global_store/state.dart';
